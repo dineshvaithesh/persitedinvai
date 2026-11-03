@@ -1,0 +1,7 @@
+# Policy for reporting security vulnerabilities
+# https://dineshvaithesh.com/.well-known/security.txt
+
+Contact: mailto:dineshvaithesh@outlook.com
+Preferred-Languages: en
+Canonical: https://dineshvaithesh.com/.well-known/security.txt
+Policy: This portfolio site contains no sensitive user data or account systems. If you discover a vulnerability, please report it responsibly to the email above.

@@ -1,0 +1,13 @@
+# Security: prevent accidental secrets being committed
+*.key export-ignore
+*.pem export-ignore
+*.env text export-ignore
+.id_data/ diff= text= attribute=-merge
+*.p12 export-ignore
+*.pfx export-ignore
+
+# Normalize line endings
+* text=auto
+
+# Binary formats
+*.svg binary

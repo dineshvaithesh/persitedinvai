@@ -1,0 +1,5 @@
+User-agent: *
+# Allow all pages except sensitive metadata files
+Disallow: /.well-known/security.txt
+
+# No sitemap yet — add when you set one up on GitHub Pages
